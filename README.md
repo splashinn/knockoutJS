@@ -1,6 +1,6 @@
 # knockoutJS
 
-Example Knockout.js apps
+Example Knockout.js apps based on website tutorials.
 
 ## Contributing
 
